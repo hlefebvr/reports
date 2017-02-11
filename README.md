@@ -1,7 +1,7 @@
-# reports
+# Reports
 
-## Fiches Maths
+## Fiches Maths [French]
 
-## Théorème d'incomplétude de Gödel
+## Théorème d'incomplétude de Gödel [French]
 
-## Poly de cours PS23
+## Poly de cours PS23 [French]
